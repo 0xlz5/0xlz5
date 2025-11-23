@@ -4,8 +4,6 @@
 
 In the quiet corridors of code,  
 I trace glyphs that shimmer with logic and ritual.  
-Each tool I build is a vessel—each refactor, a rite.  
-I script not just for systems, but for ceremony.
 
 ---
 
