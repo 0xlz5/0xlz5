@@ -1,12 +1,3 @@
-### 🧭 What I'm working on
-
-Crafting modern GNU-style tools that hum with parallel breath:
-
-- 🧩 Monadic design — for composable, error-safe flows
-- ⚙️ Parallel computation — scaling across cores like spinning echoes  
-- 🚀 [Go](https://go.dev/doc/effective_go) — for concurrency, clarity, and speed of invocation
-
----
 
 ### 💡 A few Open Source projects I like
 
