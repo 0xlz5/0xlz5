@@ -25,5 +25,3 @@ Crafting modern GNU-style tools that hum with parallel breath:
 > It still whispers in my scripts—especially when the logic turns arcane.
 
 🏮
-
-That’s it—for now.
